@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/hanachronism
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://hlittle.com
+  * I am hanachronism (https://keybase.io/hanachronism) on keybase.
+  * I have a public key ASBtBMqOf2j_zxMY4C6F1G3QmKgD_cGdQToL72OAoUZgMwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206d04ca8e7f68ffcf1318e02e85d46dd098a803fdc19d413a0bef6380a14660330a",
+      "host": "keybase.io",
+      "kid": "01206d04ca8e7f68ffcf1318e02e85d46dd098a803fdc19d413a0bef6380a14660330a",
+      "uid": "a695b7f53f507290039a789cfcc73019",
+      "username": "hanachronism"
+    },
+    "merkle_root": {
+      "ctime": 1568933784,
+      "hash": "02a612475ab0914b4b5d21b1485f967423d1ad47e8f858ead0a1189d3b9c414eed42dd28b9e87414801a5119a4932210bd8787da5758095181af2cfa0df9bd73",
+      "hash_meta": "36b9b77cbde2fb1d53e0dd5e497f4c0cb6d6aec30ee465a7f9dd6e54ded42861",
+      "seqno": 7620424
+    },
+    "service": {
+      "entropy": "GLVmaYLHRqEa//+G5NzE5lGJ",
+      "hostname": "hlittle.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.5.0"
+  },
+  "ctime": 1568933797,
+  "expire_in": 504576000,
+  "prev": "d576bbc95e3a02640121296167c097f25daa80ef8a38ea5c3fbeda6e6ded3afe",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgbQTKjn9o/88TGOAuhdRt0JioA/3BnUE6C+9jgKFGYDMKp3BheWxvYWTESpcCD8Qg1Xa7yV46AmQBISlhZ8CX8l2qgO+KOOpcP77abm3tOv7EIPI8mLT3DJQCU74BcFIuV/tBLycq/tazHze6UevcxmfVAgHCo3NpZ8RArUQmFwA22UPXfy9fRGofRRsWGFQ18wX+EY56G9fmOPtq4QbpOMstv+jDARWFPHRdY2/plhOjQxqRNlRN4pnDDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOAOFIrOeqdIT00Yz77reg7JLL5AuboypFUEvoabgc21o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hanachronism
+
+==================================================================
