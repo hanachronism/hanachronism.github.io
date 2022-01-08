@@ -1995,11 +1995,11 @@ input, select, textarea {
 
 		.wrapper.style1 {
 			background-image: none;
-			background-color: #c4ff6b;
+			background-color: #fff;
 		}
 
 		.wrapper.style2 {
-			background-color: #ffcf99;
+			background-color: #fafafa;
 			text-shadow: 1px 1px 0px #fff;
 		}
 
